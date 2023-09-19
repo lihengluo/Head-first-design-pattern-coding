@@ -1,8 +1,4 @@
-package com;
-
-import com.example.Duck;
-import com.example.FlyWithWings;
-import com.example.Quark;
+package com.pattern1;
 
 public class App {
     public static void main(String[] args) {

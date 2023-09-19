@@ -1,4 +1,4 @@
-package com.example;
+package com.pattern1;
 
 public class Quark implements QuarkBehaviors {
     public void quark() {
